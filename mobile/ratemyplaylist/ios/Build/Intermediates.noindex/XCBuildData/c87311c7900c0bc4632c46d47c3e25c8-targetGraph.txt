@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Flutter in Pods, no dependencies
+spotify_sdk in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+spotify_sdk in Pods (explicit)
+Runner in Runner, depends on:
+Pods-Runner in Pods (implicit dependency via file 'Pods_Runner.framework' in build phase 'Link Binary')
+spotify_sdk in Pods (implicit dependency via options '-framework spotify_sdk' in build setting 'OTHER_LDFLAGS')

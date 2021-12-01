@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "12c24ca9c63f87d6a7524b2722de230b5ff02fc9b0eb40452fec31420d1969b8"
+build_start_time: [1638074110, 26273012]
+build_end_time: [1638074114, 455589056]
+inputs:
+  "/Users/priyanshpatel/StudioProjects/ratemyplaylist/ios/Runner/AppDelegate.swift": [1634330199, 0]

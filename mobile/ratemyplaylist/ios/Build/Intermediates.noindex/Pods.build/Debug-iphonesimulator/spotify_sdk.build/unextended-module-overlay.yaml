@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/priyanshpatel/StudioProjects/ratemyplaylist/build/ios/Debug-iphonesimulator/spotify_sdk/spotify_sdk.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/priyanshpatel/StudioProjects/ratemyplaylist/ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/spotify_sdk.build/unextended-module.modulemap",
+    }]
+  }]
+}

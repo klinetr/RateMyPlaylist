@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "d4c0577dbaf8c8fae9611aef0dcaa4954de5033d2e1c5f9ddbfa51db39ee962d"
+build_start_time: [1638375428, 522932052]
+build_end_time: [1638375429, 718001842]
+inputs:
+  ? "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/ConnectionStatusHandler.swift"
+  : [1638370718, 735986232]
+  ? "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/Extension/Dictionary.swift"
+  : [1638370718, 735126018]
+  "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/PlayerDelegate.swift": [1638370718, 733022689]
+  ? "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/PlayerState/PlayerContextHandler.swift"
+  : [1638370718, 728538513]
+  ? "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/PlayerState/PlayerState.swift"
+  : [1638370718, 729511737]
+  ? "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/PlayerState/PlayerStateHandler.swift"
+  : [1638370718, 730430126]
+  "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/SpotifyError.swift": [1638370718, 726307153]
+  ? "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/SpotifySdkConstants.swift"
+  : [1638370718, 732134342]
+  "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/StatusHandler.swift": [1638370718, 731302738]
+  ? "/Users/priyanshpatel/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/spotify_sdk-2.2.0/ios/Classes/SwiftSpotifySdkPlugin.swift"
+  : [1638370718, 727481603]

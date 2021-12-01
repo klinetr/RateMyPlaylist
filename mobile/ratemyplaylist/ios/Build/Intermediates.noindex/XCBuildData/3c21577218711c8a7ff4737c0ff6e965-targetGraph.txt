@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Flutter in Pods, no dependencies
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+Runner in Runner, depends on:
+Pods-Runner in Pods (implicit dependency via file 'Pods_Runner.framework' in build phase 'Link Binary')
